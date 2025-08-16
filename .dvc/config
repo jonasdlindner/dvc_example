@@ -1,0 +1,4 @@
+[core]
+    remote = mysshremote
+['remote "mysshremote"']
+    url = ssh://root@dev.churchfinder.ch/opt/storage
